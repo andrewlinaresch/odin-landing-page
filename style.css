@@ -162,6 +162,9 @@ ul {
 .action > button {
     border-color: white;
 }
+.call > p, .call > h4{
+    margin: 0;
+}
 .action {
     flex: 1;
     border-radius: 8px;
