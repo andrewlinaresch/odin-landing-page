@@ -140,3 +140,15 @@ ul {
     align-items: center;
     justify-content: center;
 }
+
+.mid2 {
+    display: flex;
+    flex-direction: column;
+    padding: 80px 160px 40px 160px;
+    justify-content: center;
+}
+
+.mid2 > h4 {
+    align-self: flex-end;    
+}
+
