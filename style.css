@@ -68,8 +68,8 @@ button, .action {
 }
 
 .topcontent > img {
-    width: 450px;
-    height: 200px;
+    width: 500px;
+    height: 250px;
 }
 
 button {
@@ -151,4 +151,25 @@ ul {
 .mid2 > h4 {
     align-self: flex-end;    
 }
+
+.mid3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.action > button {
+    border-color: white;
+}
+.action {
+    flex: 1;
+    border-radius: 8px;
+    display: flex;
+    padding: 30px;
+    margin: 20px 80px;
+    align-items: center;
+    justify-content: space-around;
+}
+
 
